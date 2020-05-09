@@ -1,0 +1,23 @@
+{
+  "version": "14.11",
+  "loadlist": [
+    {
+      "name": "KodalenSkin",
+      "type": "Legacy",
+      "checkPNG": false,
+      "skin": "https://mine.lyune.com/skins/{USERNAME}.png",
+      "model": "default",
+      "cape": "https://mine.lyune.com/capes/{USERNAME}.png",
+      "elytra": "https://mine.lyune.com/elytras/{USERNAME}.png"
+    }
+  ],
+  "enableDynamicSkull": true,
+  "enableTransparentSkin": true,
+  "ignoreHttpsCertificate": false,
+  "forceLoadAllTextures": false,
+  "enableCape": true,
+  "cacheExpiry": 30,
+  "enableUpdateSkull": false,
+  "enableLocalProfileCache": false,
+  "enableCacheAutoClean": false
+}

@@ -1,0 +1,12 @@
+{
+  "minimumVersion" : 1,
+  "packages" : [
+    {
+      "title" : "Kodalen 1.12.2",
+      "name" : "kodalen",
+      "version" : "2020-05-09-18-13-47",
+      "location" : "kodalen.json",
+      "priority" : 0
+    }
+  ]
+}
