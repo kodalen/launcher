@@ -1,0 +1,23 @@
+{
+  "version": "14.11",
+  "loadlist": [
+    {
+      "name": "KodalenSkin",
+      "type": "Legacy",
+      "checkPNG": false,
+      "skin": "https://kodalen.github.io/launcher/skins/{USERNAME}.png",
+      "model": "default",
+      "cape": "https://kodalen.github.io/launcher/capes/{USERNAME}.png",
+      "elytra": "https://kodalen.github.io/launcher/elytras/{USERNAME}.png"
+    }
+  ],
+  "enableDynamicSkull": true,
+  "enableTransparentSkin": true,
+  "ignoreHttpsCertificate": false,
+  "forceLoadAllTextures": false,
+  "enableCape": true,
+  "cacheExpiry": 30,
+  "enableUpdateSkull": false,
+  "enableLocalProfileCache": false,
+  "enableCacheAutoClean": false
+}
