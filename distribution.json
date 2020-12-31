@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "rss": "<LINK TO RSS FEED>",
+  "rss": "https://kodalen.lyune.com/feed.rss",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
     "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -9,7 +9,7 @@
   "servers": [
     {
       "id": "Kodalen-1.12.2",
-      "name": "Kodalen (Minecraft 1.12.2)",
+      "name": "Kodalen Production Server",
       "description": "Kodalen Running Minecraft 1.12.2 (Forge v14.23.5.2847)",
       "icon": null,
       "version": "1.0.0",
