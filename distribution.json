@@ -2,9 +2,9 @@
   "version": "1.0.0",
   "rss": "https://kodalen.lyune.com/feed.rss",
   "discord": {
-    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    "clientId": "765238229317320724",
+    "smallImageText": "Kodalen",
+    "smallImageKey": "seal-circle"
   },
   "servers": [
     {
@@ -16,9 +16,9 @@
       "address": "kodalen.lyune.com:25565",
       "minecraftVersion": "1.12.2",
       "discord": {
-        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+        "shortId": "765238229317320724",
+        "largeImageText": "Kodalen",
+        "largeImageKey": "seal-circle"
       },
       "mainServer": false,
       "autoconnect": false,
