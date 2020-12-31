@@ -11,7 +11,7 @@
       "id": "Kodalen-1.12.2",
       "name": "Kodalen Servidor de Produção",
       "description": "Kodalen rodando Minecraft 1.12.2",
-      "icon": null,
+      "icon": "https://kodalen.github.io/launcher/server-icon.png",
       "version": "1.0.1",
       "address": "kodalen.lyune.com:25565",
       "minecraftVersion": "1.12.2",
