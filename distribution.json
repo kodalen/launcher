@@ -20,8 +20,8 @@
         "largeImageText": "Kodalen",
         "largeImageKey": "seal-circle"
       },
-      "mainServer": false,
-      "autoconnect": false,
+      "mainServer": true,
+      "autoconnect": true,
       "modules": [
         {
           "id": "net.minecraftforge:forge:1.12.2-14.23.5.2847:universal",
