@@ -9,8 +9,8 @@
   "servers": [
     {
       "id": "Kodalen-1.12.2",
-      "name": "Kodalen Production Server",
-      "description": "Kodalen Running Minecraft 1.12.2",
+      "name": "Kodalen Servidor de Produção",
+      "description": "Kodalen rodando Minecraft 1.12.2",
       "icon": null,
       "version": "1.0.1",
       "address": "kodalen.lyune.com:25565",
