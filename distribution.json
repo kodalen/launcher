@@ -1,18 +1,18 @@
 {
   "version": "1.0.0",
-  "rss": "https://kodalen.lyune.com/feed.rss",
+  "rss": "<LINK TO RSS FEED>",
   "discord": {
-    "clientId": "765238229317320724",
-    "smallImageText": "Kodalen",
-    "smallImageKey": "seal-circle"
+    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
   },
   "servers": [
     {
       "id": "Kodalen-1.12.2",
       "name": "Kodalen Production Server",
-      "description": "Kodalen Running Minecraft 1.12.2 (Forge v14.23.5.2847)",
+      "description": "Kodalen Running Minecraft 1.12.2",
       "icon": null,
-      "version": "1.0.0",
+      "version": "1.0.1",
       "address": "kodalen.lyune.com:25565",
       "minecraftVersion": "1.12.2",
       "discord": {
@@ -30,7 +30,7 @@
           "artifact": {
             "size": 4884700,
             "MD5": "90734a5a713e24902d24c45c15caa42c",
-            "url": "https://kodalen.github.io/launcher/repo/lib/net/minecraftforge/forge/1.12.2-14.23.5.2847/forge-1.12.2-14.23.5.2847-universal.jar"
+            "url": "http://localhost:8080/repo/lib/net/minecraftforge/forge/1.12.2-14.23.5.2847/forge-1.12.2-14.23.5.2847-universal.jar"
           },
           "subModules": [
             {
@@ -40,7 +40,7 @@
               "artifact": {
                 "size": 32999,
                 "MD5": "934b2d91c7c5be4a49577c9e6b40e8da",
-                "url": "https://kodalen.github.io/launcher/repo/lib/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar"
+                "url": "http://localhost:8080/repo/lib/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar"
               }
             },
             {
@@ -50,7 +50,7 @@
               "artifact": {
                 "size": 247787,
                 "MD5": "f5ad16c7f0338b541978b0430d51dc83",
-                "url": "https://kodalen.github.io/launcher/repo/lib/org/ow2/asm/asm-all/5.2/asm-all-5.2.jar"
+                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm-all/5.2/asm-all-5.2.jar"
               }
             },
             {
@@ -60,7 +60,7 @@
               "artifact": {
                 "size": 614590,
                 "MD5": "4c20d2879ed2bd75a0771ce29e89f6b0",
-                "url": "https://kodalen.github.io/launcher/repo/lib/org/jline/jline/3.5.1/jline-3.5.1.jar"
+                "url": "http://localhost:8080/repo/lib/org/jline/jline/3.5.1/jline-3.5.1.jar"
               }
             },
             {
@@ -70,7 +70,7 @@
               "artifact": {
                 "size": 1091208,
                 "MD5": "34d3537524a6c8c134e840e7be601569",
-                "url": "https://kodalen.github.io/launcher/repo/lib/net/java/dev/jna/jna/4.4.0/jna-4.4.0.jar"
+                "url": "http://localhost:8080/repo/lib/net/java/dev/jna/jna/4.4.0/jna-4.4.0.jar"
               }
             },
             {
@@ -80,7 +80,7 @@
               "artifact": {
                 "size": 2514991,
                 "MD5": "541440ca0819ebada47d6d1a8b3ee9e1",
-                "url": "https://kodalen.github.io/launcher/repo/lib/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar"
+                "url": "http://localhost:8080/repo/lib/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar"
               }
             },
             {
@@ -90,7 +90,7 @@
               "artifact": {
                 "size": 219554,
                 "MD5": "3aaf3c6e76a68e732c17d4a7e9877d81",
-                "url": "https://kodalen.github.io/launcher/repo/lib/com/typesafe/config/1.2.1/config-1.2.1.jar"
+                "url": "http://localhost:8080/repo/lib/com/typesafe/config/1.2.1/config-1.2.1.jar"
               }
             },
             {
@@ -100,7 +100,7 @@
               "artifact": {
                 "size": 58018,
                 "MD5": "f5e79398daa1806f8b17311a3c782723",
-                "url": "https://kodalen.github.io/launcher/repo/lib/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar"
+                "url": "http://localhost:8080/repo/lib/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar"
               }
             },
             {
@@ -110,7 +110,7 @@
               "artifact": {
                 "size": 13449765,
                 "MD5": "06030143bf86ca896fb6ccfd679b5760",
-                "url": "https://kodalen.github.io/launcher/repo/lib/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar"
+                "url": "http://localhost:8080/repo/lib/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar"
               }
             },
             {
@@ -120,7 +120,7 @@
               "artifact": {
                 "size": 25364,
                 "MD5": "c7d01e5a88182df7f22b7418abb51085",
-                "url": "https://kodalen.github.io/launcher/repo/lib/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2/scala-continuations-library_2.11-1.0.2.jar"
+                "url": "http://localhost:8080/repo/lib/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2/scala-continuations-library_2.11-1.0.2.jar"
               }
             },
             {
@@ -130,7 +130,7 @@
               "artifact": {
                 "size": 206574,
                 "MD5": "daecef8fab296b764a8fb41fc07f2428",
-                "url": "https://kodalen.github.io/launcher/repo/lib/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2/scala-continuations-plugin_2.11.1-1.0.2.jar"
+                "url": "http://localhost:8080/repo/lib/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2/scala-continuations-plugin_2.11.1-1.0.2.jar"
               }
             },
             {
@@ -140,7 +140,7 @@
               "artifact": {
                 "size": 5538130,
                 "MD5": "1d88f665219e6006c5dd82d71c525c0f",
-                "url": "https://kodalen.github.io/launcher/repo/lib/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar"
+                "url": "http://localhost:8080/repo/lib/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar"
               }
             },
             {
@@ -150,7 +150,7 @@
               "artifact": {
                 "size": 419701,
                 "MD5": "4e694499c965af4a02599c99d4f0b196",
-                "url": "https://kodalen.github.io/launcher/repo/lib/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar"
+                "url": "http://localhost:8080/repo/lib/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar"
               }
             },
             {
@@ -160,7 +160,7 @@
               "artifact": {
                 "size": 4372892,
                 "MD5": "7878fac044e4e4b576bb35a77ccc34fc",
-                "url": "https://kodalen.github.io/launcher/repo/lib/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar"
+                "url": "http://localhost:8080/repo/lib/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar"
               }
             },
             {
@@ -170,7 +170,7 @@
               "artifact": {
                 "size": 726500,
                 "MD5": "1009d69e4948045383f2a7a334348af5",
-                "url": "https://kodalen.github.io/launcher/repo/lib/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar"
+                "url": "http://localhost:8080/repo/lib/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar"
               }
             },
             {
@@ -180,7 +180,7 @@
               "artifact": {
                 "size": 648679,
                 "MD5": "c2d7e66495afe14545c31b21e99879ef",
-                "url": "https://kodalen.github.io/launcher/repo/lib/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar"
+                "url": "http://localhost:8080/repo/lib/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar"
               }
             },
             {
@@ -190,7 +190,7 @@
               "artifact": {
                 "size": 5762,
                 "MD5": "a3e3c3186e41c4a1a3027ba2bb23cdc6",
-                "url": "https://kodalen.github.io/launcher/repo/lib/lzma/lzma/0.0.1/lzma-0.0.1.jar"
+                "url": "http://localhost:8080/repo/lib/lzma/lzma/0.0.1/lzma-0.0.1.jar"
               }
             },
             {
@@ -200,7 +200,7 @@
               "artifact": {
                 "size": 78175,
                 "MD5": "0a5ec84e23df9d7cfb4063bc55f2744c",
-                "url": "https://kodalen.github.io/launcher/repo/lib/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar"
+                "url": "http://localhost:8080/repo/lib/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar"
               }
             },
             {
@@ -210,7 +210,7 @@
               "artifact": {
                 "size": 318956,
                 "MD5": "e5d2b7f46c4800a32f62ce75676a5710",
-                "url": "https://kodalen.github.io/launcher/repo/lib/java3d/vecmath/1.5.2/vecmath-1.5.2.jar"
+                "url": "http://localhost:8080/repo/lib/java3d/vecmath/1.5.2/vecmath-1.5.2.jar"
               }
             },
             {
@@ -220,7 +220,7 @@
               "artifact": {
                 "size": 2523218,
                 "MD5": "8fc4d4e0129244f9fd39650c5f30feb2",
-                "url": "https://kodalen.github.io/launcher/repo/lib/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar"
+                "url": "http://localhost:8080/repo/lib/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar"
               }
             },
             {
@@ -230,10 +230,304 @@
               "artifact": {
                 "size": 54961,
                 "MD5": "7741ebf29690ee7d9dde9cf4376347fc",
-                "url": "https://kodalen.github.io/launcher/repo/lib/org/apache/maven/maven-artifact/3.5.3/maven-artifact-3.5.3.jar"
+                "url": "http://localhost:8080/repo/lib/org/apache/maven/maven-artifact/3.5.3/maven-artifact-3.5.3.jar"
               }
             }
           ]
+        },
+        {
+          "id": "mods.betterfoliage:betterfoliage:2.2.0@jar",
+          "name": "Better Foliage",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 926081,
+            "url": "http://localhost:8080/servers/Kodalen-1.12.2/forgemods/optionalon/betterfoliage-2.2.0.jar.jar",
+            "MD5": "e05a720c5900b9bac4e01179abe8eef6"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.conquestreforged:conquest:3.0.2@jar",
+          "name": "Conquest Reforged",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 60802913,
+            "url": "http://localhost:8080/servers/Kodalen-1.12.2/forgemods/required/conquestreforged-3.0.2.jar",
+            "MD5": "4ad1a90bcbecae097b984a4ee3695929"
+          }
+        },
+        {
+          "id": "org.orecruncher:dsurround:1.12.2-3.6.0.2@jar",
+          "name": "Dynamic Surroundings",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 16014866,
+            "url": "http://localhost:8080/servers/Kodalen-1.12.2/forgemods/optionalon/dynsurround-3.6.1.0.jar",
+            "MD5": "b587a5c7a4791894a3531577e4bbec81"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.forgeessentials.client:ForgeEssentialsClient:12.3.82@jar",
+          "name": "Forge Essentials Client Addon",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1065011,
+            "url": "http://localhost:8080/servers/Kodalen-1.12.2/forgemods/required/forgeessentials-12.3.82.jar",
+            "MD5": "c5ac85b300cf730f87361fed2b2c3557"
+          }
+        },
+        {
+          "id": "net.shadowfacts:forgelin:1.8.4@jar",
+          "name": "Shadowfacts' Forgelin",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6278399,
+            "url": "http://localhost:8080/servers/Kodalen-1.12.2/forgemods/required/forgelin-1.8.4.jar",
+            "MD5": "2da79fce72265eab0541e565636d389d"
+          }
+        },
+        {
+          "id": "felinoid.horse_colors:horse_colors:1.12.2-1.0.2@jar",
+          "name": "Realistic Horse Genetics",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1000733,
+            "url": "http://localhost:8080/servers/Kodalen-1.12.2/forgemods/required/horse_colors-1.0.4.jar",
+            "MD5": "4ac8a7074629bb32d2fc9ad24926383d"
+          }
+        },
+        {
+          "id": "net.optifine:optifine:1.12.2_HD_U_F5@jar",
+          "name": "OptiFine 1.12.2_HD_U_F5",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2598821,
+            "url": "http://localhost:8080/servers/Kodalen-1.12.2/forgemods/required/optifine-HD_U_F5.jar",
+            "MD5": "043ac1db6f7441ea4cf31bcb621aff0b"
+          }
+        },
+        {
+          "id": "org.orecruncher:orelib:1.12.2-3.6.0.1@jar",
+          "name": "OreLib Support Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 341728,
+            "url": "http://localhost:8080/servers/Kodalen-1.12.2/forgemods/required/orelib-3.6.0.1.jar",
+            "MD5": "00cce3b240365458adcad3e77782358a"
+          }
+        },
+        {
+          "id": "com.kulttuuri:quickhotbar:1.05@jar",
+          "name": "Quick Hotbar",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 110248,
+            "url": "http://localhost:8080/servers/Kodalen-1.12.2/forgemods/optionaloff/quickhotbar-1.05.jar",
+            "MD5": "5703593a1879c0c428df490ec4f6b290"
+          },
+          "required": {
+            "value": false,
+            "def": false
+          }
+        },
+        {
+          "id": "com.github.hexomod:worldeditcuife3:3.0.4@jar",
+          "name": "WorldEdit CUI Forge Edition 3",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 861081,
+            "url": "http://localhost:8080/servers/Kodalen-1.12.2/forgemods/optionaloff/worldedit-cui-3.0.4.jar",
+            "MD5": "0807a7fcf26b50b23288daecc5ee6ae4"
+          },
+          "required": {
+            "value": false,
+            "def": false
+          }
+        },
+        {
+          "id": "xaero.minimap:xaerominimap:20.20.3@jar",
+          "name": "Xaero's Minimap",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 562247,
+            "url": "http://localhost:8080/servers/Kodalen-1.12.2/forgemods/optionalon/xaeros_minimap_20.20.3.jar",
+            "MD5": "f721e45a42b8b64c04719d74780e3681"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "xaero.map:xaeroworldmap:1.10.3@jar",
+          "name": "Xaero's World Map",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 314793,
+            "url": "http://localhost:8080/servers/Kodalen-1.12.2/forgemods/optionalon/xaeros_worldmap_1.10.3.jar",
+            "MD5": "a16e0a5346230a6ab208131e92a4a286"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "betterfoliage.cfg",
+          "name": "betterfoliage.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 7737,
+            "url": "http://localhost:8080/servers/Kodalen-1.12.2/files/config/betterfoliage.cfg",
+            "MD5": "0a97e6ab0da6674cd4b8349ef46d2e39",
+            "path": "config/betterfoliage.cfg"
+          }
+        },
+        {
+          "id": "dsurround.cfg",
+          "name": "dsurround.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 15353,
+            "url": "http://localhost:8080/servers/Kodalen-1.12.2/files/config/dsurround/dsurround.cfg",
+            "MD5": "cb1cbfc5285af04ff699528cc004d81d",
+            "path": "config/dsurround/dsurround.cfg"
+          }
+        },
+        {
+          "id": "kodalen.json",
+          "name": "kodalen.json",
+          "type": "File",
+          "artifact": {
+            "size": 608,
+            "url": "http://localhost:8080/servers/Kodalen-1.12.2/files/config/dsurround/kodalen.json",
+            "MD5": "44eab112ff24d0bd29974c270de868ba",
+            "path": "config/dsurround/kodalen.json"
+          }
+        },
+        {
+          "id": "horse_colors.cfg",
+          "name": "horse_colors.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 1013,
+            "url": "http://localhost:8080/servers/Kodalen-1.12.2/files/config/horse_colors.cfg",
+            "MD5": "19bc3054a7c380e60ce68bc01c868df3",
+            "path": "config/horse_colors.cfg"
+          }
+        },
+        {
+          "id": "splash.properties",
+          "name": "splash.properties",
+          "type": "File",
+          "artifact": {
+            "size": 358,
+            "url": "http://localhost:8080/servers/Kodalen-1.12.2/files/config/splash.properties",
+            "MD5": "c67fb5d7e3817e50d23bb59f03ec01f6",
+            "path": "config/splash.properties"
+          }
+        },
+        {
+          "id": "xaerominimap.txt",
+          "name": "xaerominimap.txt",
+          "type": "File",
+          "artifact": {
+            "size": 1904,
+            "url": "http://localhost:8080/servers/Kodalen-1.12.2/files/config/xaerominimap.txt",
+            "MD5": "685457f9a584ec75762438ccc0dc469d",
+            "path": "config/xaerominimap.txt"
+          }
+        },
+        {
+          "id": "xaeroworldmap.txt",
+          "name": "xaeroworldmap.txt",
+          "type": "File",
+          "artifact": {
+            "size": 378,
+            "url": "http://localhost:8080/servers/Kodalen-1.12.2/files/config/xaeroworldmap.txt",
+            "MD5": "e13e79de95fcc481b53048f66be22d0d",
+            "path": "config/xaeroworldmap.txt"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 3327,
+            "url": "http://localhost:8080/servers/Kodalen-1.12.2/files/options.txt",
+            "MD5": "9230b66516dc980306a4eb17729f5543",
+            "path": "options.txt"
+          }
+        },
+        {
+          "id": "optionsof.txt",
+          "name": "optionsof.txt",
+          "type": "File",
+          "artifact": {
+            "size": 1251,
+            "url": "http://localhost:8080/servers/Kodalen-1.12.2/files/optionsof.txt",
+            "MD5": "afe95e4a1bf990b52b58ceeb83d2c82a",
+            "path": "optionsof.txt"
+          }
+        },
+        {
+          "id": "optionsshaders.txt",
+          "name": "optionsshaders.txt",
+          "type": "File",
+          "artifact": {
+            "size": 354,
+            "url": "http://localhost:8080/servers/Kodalen-1.12.2/files/optionsshaders.txt",
+            "MD5": "23d467b1ad7ffd4450e6d228b82c5981",
+            "path": "optionsshaders.txt"
+          }
+        },
+        {
+          "id": "ConquestReforged.zip",
+          "name": "ConquestReforged.zip",
+          "type": "File",
+          "artifact": {
+            "size": 85322951,
+            "url": "http://localhost:8080/servers/Kodalen-1.12.2/files/resourcepacks/ConquestReforged.zip",
+            "MD5": "54db10d1ae7fd62093e1e754fe194076",
+            "path": "resourcepacks/ConquestReforged.zip"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 75,
+            "url": "http://localhost:8080/servers/Kodalen-1.12.2/files/servers.dat",
+            "MD5": "147ebd4efe6ea3c188a473794473f230",
+            "path": "servers.dat"
+          }
+        },
+        {
+          "id": "ConquestOfTheSun_v.5.3.zip",
+          "name": "ConquestOfTheSun_v.5.3.zip",
+          "type": "File",
+          "artifact": {
+            "size": 151475,
+            "url": "http://localhost:8080/servers/Kodalen-1.12.2/files/shaderpacks/ConquestOfTheSun_v.5.3.zip",
+            "MD5": "5d778a6c7f9fcf57ca123ecf70a3deb9",
+            "path": "shaderpacks/ConquestOfTheSun_v.5.3.zip"
+          }
+        },
+        {
+          "id": "Enhanced Default v1.11.zip",
+          "name": "Enhanced Default v1.11.zip",
+          "type": "File",
+          "artifact": {
+            "size": 43322,
+            "url": "http://localhost:8080/servers/Kodalen-1.12.2/files/shaderpacks/Enhanced%20Default%20v1.11.zip",
+            "MD5": "6d407e8d4341b48c54c4583089e47b92",
+            "path": "shaderpacks/Enhanced Default v1.11.zip"
+          }
         }
       ]
     }
